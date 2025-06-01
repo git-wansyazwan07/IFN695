@@ -1,4 +1,4 @@
-# Data‐Driven Analysis of Australia’s NEM Outages
+# Investigating the Synergistic Impact of Operational Factors and Equipment Attributes on Power Outage Duration within Australia's National Electricity Market (NEM) Grid 
 
 This repository contains the R scripts and supporting files used to model outage durations in Queensland’s portion of Australia’s National Electricity Market (NEM). The analysis focuses on how operational reasons, equipment attributes, and their interactions influence outage length.
 
