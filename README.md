@@ -76,7 +76,7 @@ install.packages(c(
    cd NEM‐Outage‐Analysis
    ```
 
-2. Open `scripts/eda_and_modeling.R` in RStudio (or any R IDE).
+2. Open `MainScript.R` in RStudio (or any R IDE).
 
 3. Update file paths if needed (by default, it expects `data/processed_df_final.csv`).
 
